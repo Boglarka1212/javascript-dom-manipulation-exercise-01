@@ -9,6 +9,8 @@ const listItemOne = document.querySelector("#list-item-one");
 const listItemTwo = document.querySelector("#list-item-two");
 const listItemThree = document.querySelector("#list-item-three");
 
+const ul = document.querySelector("ul");
+
 
 websiteBody.style.background = "pink";
 
@@ -21,3 +23,5 @@ paragraph.style.fontWeight = "700";
 listItemOne.style.listStyleType = "circle";
 listItemTwo.style.listStyleType = "disc";
 listItemThree.style.listStyleType = "square";
+
+ul.style.fontSize = "22px"
