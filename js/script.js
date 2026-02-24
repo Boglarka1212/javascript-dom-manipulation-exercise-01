@@ -17,3 +17,7 @@ headingOne.style.color = "Maroon";
 
 paragraph.style.fontSize = "2rem";
 paragraph.style.fontWeight = "700";
+
+listItemOne.style.listStyleType = "circle";
+listItemTwo.style.listStyleType = "disc";
+listItemThree.style.listStyleType = "square";
