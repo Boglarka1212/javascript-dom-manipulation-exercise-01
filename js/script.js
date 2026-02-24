@@ -24,4 +24,4 @@ listItemOne.style.listStyleType = "circle";
 listItemTwo.style.listStyleType = "disc";
 listItemThree.style.listStyleType = "square";
 
-ul.style.fontSize = "22px"
+ul.style.fontSize = "22px";
